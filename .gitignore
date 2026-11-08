@@ -1,0 +1,7 @@
+__pycache__/
+.env
+outputs/
+.venv/
+rag_index/
+knowledge_base/uploads/
+.env

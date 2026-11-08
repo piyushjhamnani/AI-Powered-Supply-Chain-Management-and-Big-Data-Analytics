@@ -1,0 +1,69 @@
+date,warehouse_id,product_id,qty_change,reason
+2024-11-23,WH-MUM,P004,-3,Rodent damage
+2025-01-17,WH-MUM,P004,-3,Damaged in handling
+2025-09-30,WH-MUM,P004,-3,Cycle count mismatch
+2025-11-30,WH-MUM,P004,-7,Rodent damage
+2026-09-27,WH-MUM,P004,-1,Damaged in handling
+2025-04-23,WH-MUM,P005,-8,Cycle count mismatch
+2026-01-19,WH-MUM,P005,-9,Rodent damage
+2024-10-12,WH-MUM,P006,-8,Cycle count mismatch
+2025-09-16,WH-MUM,P006,-3,Cycle count mismatch
+2024-11-01,WH-MUM,P007,-1,Packaging leak
+2025-05-05,WH-MUM,P007,-7,Damaged in handling
+2026-01-28,WH-MUM,P008,-2,Cycle count mismatch
+2024-12-14,WH-MUM,P009,-1,Packaging leak
+2026-05-30,WH-MUM,P009,-1,Cycle count mismatch
+2025-04-29,WH-MUM,P010,-15,Rodent damage
+2026-09-18,WH-MUM,P010,-2,Damaged in handling
+2025-05-30,WH-MUM,P011,-1,Rodent damage
+2025-03-02,WH-MUM,P012,-1,Rodent damage
+2025-09-12,WH-MUM,P012,-1,Cycle count mismatch
+2024-10-12,WH-MUM,P013,-4,Cycle count mismatch
+2025-04-30,WH-MUM,P013,-2,Cycle count mismatch
+2026-07-06,WH-MUM,P013,-3,Cycle count mismatch
+2024-12-17,WH-MUM,P014,-2,Cycle count mismatch
+2024-12-20,WH-MUM,P014,-7,Damaged in handling
+2025-05-10,WH-PUN,P004,-1,Rodent damage
+2025-05-13,WH-PUN,P005,-2,Cycle count mismatch
+2024-10-18,WH-PUN,P006,-2,Cycle count mismatch
+2026-07-17,WH-PUN,P007,-3,Damaged in handling
+2025-04-24,WH-PUN,P008,-1,Cycle count mismatch
+2026-01-30,WH-PUN,P008,-9,Cycle count mismatch
+2025-12-26,WH-PUN,P009,-1,Packaging leak
+2026-02-10,WH-PUN,P009,-3,Packaging leak
+2025-08-02,WH-PUN,P010,-5,Rodent damage
+2025-12-16,WH-PUN,P010,-9,Cycle count mismatch
+2026-06-07,WH-PUN,P010,-4,Damaged in handling
+2026-07-26,WH-PUN,P010,-3,Packaging leak
+2026-08-02,WH-PUN,P010,-2,Packaging leak
+2025-01-10,WH-PUN,P011,-1,Rodent damage
+2026-06-15,WH-PUN,P012,-6,Rodent damage
+2025-01-21,WH-PUN,P013,-2,Packaging leak
+2025-02-08,WH-PUN,P013,-2,Packaging leak
+2025-03-14,WH-PUN,P014,-4,Damaged in handling
+2025-05-27,WH-PUN,P014,-2,Damaged in handling
+2026-01-03,WH-PUN,P014,-2,Damaged in handling
+2026-09-21,WH-PUN,P014,-1,Packaging leak
+2025-09-15,WH-NSK,P004,-1,Cycle count mismatch
+2026-03-28,WH-NSK,P004,-1,Rodent damage
+2024-10-31,WH-NSK,P005,-2,Packaging leak
+2024-12-28,WH-NSK,P005,-2,Damaged in handling
+2025-07-26,WH-NSK,P006,-2,Packaging leak
+2026-09-09,WH-NSK,P006,-1,Rodent damage
+2026-09-22,WH-NSK,P007,-1,Rodent damage
+2024-12-17,WH-NSK,P009,-2,Rodent damage
+2026-08-13,WH-NSK,P009,-2,Packaging leak
+2025-09-28,WH-NSK,P010,-1,Rodent damage
+2026-08-04,WH-NSK,P010,-6,Packaging leak
+2025-11-30,WH-NSK,P011,-1,Rodent damage
+2026-08-02,WH-NSK,P011,-1,Cycle count mismatch
+2026-09-25,WH-NSK,P011,-18,Cycle count mismatch — suspected pilferage
+2025-03-03,WH-NSK,P012,-1,Packaging leak
+2025-04-22,WH-NSK,P012,-1,Cycle count mismatch
+2025-09-01,WH-NSK,P012,-1,Packaging leak
+2024-11-28,WH-NSK,P013,-2,Rodent damage
+2025-04-05,WH-NSK,P013,-1,Rodent damage
+2025-05-30,WH-NSK,P013,-2,Damaged in handling
+2025-07-04,WH-NSK,P013,-3,Cycle count mismatch
+2025-12-22,WH-NSK,P013,-1,Damaged in handling
+2025-02-25,WH-NSK,P014,-2,Packaging leak

@@ -1,0 +1,13 @@
+WAREHOUSE OPERATIONS - STANDARD OPERATING PROCEDURE (sample knowledge-base document, based on the project's agent logic; edit to match your company)
+
+1. Network
+Three warehouses serve the distribution network: Bhiwandi Distribution Centre (Mumbai, capacity 60,000 units), Pune Chakan Warehouse (capacity 40,000 units) and Nashik Satpur Warehouse (capacity 25,000 units). All warehouses are within about 250 km of each other, so an inter-warehouse transfer takes 1 day.
+
+2. Inter-warehouse transfers
+A transfer is considered when a warehouse is at CRITICAL or HIGH stockout risk and another warehouse has spare stock. A transfer is only suggested if it is faster than a vendor delivery. A donor warehouse must keep at least 20 days of cover for non-perishables and 3 days for perishables. Transfer handling and freight cost is estimated at about 2% of the stock value.
+
+3. Stock adjustments
+Stock losses (damage, spoilage, rodent damage, handling loss) are recorded in the inventory adjustments register with date, warehouse, product, quantity change and reason. The Anomaly Agent reviews these records and flags unusual shrinkage and spoilage for a manager.
+
+4. Overdue vendor deliveries
+Deliveries that are overdue are reported separately by the Risk Agent and the Anomaly Agent so that a manager can follow up with the vendor or place a replacement order.

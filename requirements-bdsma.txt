@@ -1,0 +1,4 @@
+# Optional packages for the Big Data execution path.
+# The integrated Streamlit demo works without these packages.
+pyspark>=3.5,<4.0
+kafka-python>=2.0

@@ -1,0 +1,823 @@
+date,day_of_week,is_weekend,month,season,festival,festival_window,is_monsoon_disruption_period,is_shravan,is_salary_week
+2024-10-01,Tuesday,False,10,Post-monsoon,,,False,False,True
+2024-10-02,Wednesday,False,10,Post-monsoon,,,False,False,True
+2024-10-03,Thursday,False,10,Post-monsoon,Navratri,Navratri,False,False,True
+2024-10-04,Friday,False,10,Post-monsoon,,Navratri,False,False,True
+2024-10-05,Saturday,True,10,Post-monsoon,,Navratri,False,False,True
+2024-10-06,Sunday,True,10,Post-monsoon,,Navratri,False,False,True
+2024-10-07,Monday,False,10,Post-monsoon,,Navratri,False,False,True
+2024-10-08,Tuesday,False,10,Post-monsoon,,Navratri,False,False,False
+2024-10-09,Wednesday,False,10,Post-monsoon,,Navratri,False,False,False
+2024-10-10,Thursday,False,10,Post-monsoon,,Navratri,False,False,False
+2024-10-11,Friday,False,10,Post-monsoon,,Navratri,False,False,False
+2024-10-12,Saturday,True,10,Post-monsoon,Dussehra,Dussehra,False,False,False
+2024-10-13,Sunday,True,10,Post-monsoon,,,False,False,False
+2024-10-14,Monday,False,10,Post-monsoon,,,False,False,False
+2024-10-15,Tuesday,False,10,Post-monsoon,,,False,False,False
+2024-10-16,Wednesday,False,10,Post-monsoon,,,False,False,False
+2024-10-17,Thursday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-18,Friday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-19,Saturday,True,10,Post-monsoon,,Diwali,False,False,False
+2024-10-20,Sunday,True,10,Post-monsoon,,Diwali,False,False,False
+2024-10-21,Monday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-22,Tuesday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-23,Wednesday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-24,Thursday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-25,Friday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-26,Saturday,True,10,Post-monsoon,,Diwali,False,False,False
+2024-10-27,Sunday,True,10,Post-monsoon,,Diwali,False,False,False
+2024-10-28,Monday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-29,Tuesday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-30,Wednesday,False,10,Post-monsoon,,Diwali,False,False,False
+2024-10-31,Thursday,False,10,Post-monsoon,Diwali,Diwali,False,False,False
+2024-11-01,Friday,False,11,Post-monsoon,,Diwali,False,False,True
+2024-11-02,Saturday,True,11,Post-monsoon,,,False,False,True
+2024-11-03,Sunday,True,11,Post-monsoon,,,False,False,True
+2024-11-04,Monday,False,11,Post-monsoon,,,False,False,True
+2024-11-05,Tuesday,False,11,Post-monsoon,,,False,False,True
+2024-11-06,Wednesday,False,11,Post-monsoon,,,False,False,True
+2024-11-07,Thursday,False,11,Post-monsoon,,,False,False,True
+2024-11-08,Friday,False,11,Post-monsoon,,,False,False,False
+2024-11-09,Saturday,True,11,Post-monsoon,,,False,False,False
+2024-11-10,Sunday,True,11,Post-monsoon,,,False,False,False
+2024-11-11,Monday,False,11,Post-monsoon,,,False,False,False
+2024-11-12,Tuesday,False,11,Post-monsoon,,,False,False,False
+2024-11-13,Wednesday,False,11,Post-monsoon,,,False,False,False
+2024-11-14,Thursday,False,11,Post-monsoon,,,False,False,False
+2024-11-15,Friday,False,11,Post-monsoon,,,False,False,False
+2024-11-16,Saturday,True,11,Post-monsoon,,,False,False,False
+2024-11-17,Sunday,True,11,Post-monsoon,,,False,False,False
+2024-11-18,Monday,False,11,Post-monsoon,,,False,False,False
+2024-11-19,Tuesday,False,11,Post-monsoon,,,False,False,False
+2024-11-20,Wednesday,False,11,Post-monsoon,,,False,False,False
+2024-11-21,Thursday,False,11,Post-monsoon,,,False,False,False
+2024-11-22,Friday,False,11,Post-monsoon,,,False,False,False
+2024-11-23,Saturday,True,11,Post-monsoon,,,False,False,False
+2024-11-24,Sunday,True,11,Post-monsoon,,,False,False,False
+2024-11-25,Monday,False,11,Post-monsoon,,,False,False,False
+2024-11-26,Tuesday,False,11,Post-monsoon,,,False,False,False
+2024-11-27,Wednesday,False,11,Post-monsoon,,,False,False,False
+2024-11-28,Thursday,False,11,Post-monsoon,,,False,False,False
+2024-11-29,Friday,False,11,Post-monsoon,,,False,False,False
+2024-11-30,Saturday,True,11,Post-monsoon,,,False,False,False
+2024-12-01,Sunday,True,12,Winter,,,False,False,True
+2024-12-02,Monday,False,12,Winter,,,False,False,True
+2024-12-03,Tuesday,False,12,Winter,,,False,False,True
+2024-12-04,Wednesday,False,12,Winter,,,False,False,True
+2024-12-05,Thursday,False,12,Winter,,,False,False,True
+2024-12-06,Friday,False,12,Winter,,,False,False,True
+2024-12-07,Saturday,True,12,Winter,,,False,False,True
+2024-12-08,Sunday,True,12,Winter,,,False,False,False
+2024-12-09,Monday,False,12,Winter,,,False,False,False
+2024-12-10,Tuesday,False,12,Winter,,,False,False,False
+2024-12-11,Wednesday,False,12,Winter,,,False,False,False
+2024-12-12,Thursday,False,12,Winter,,,False,False,False
+2024-12-13,Friday,False,12,Winter,,,False,False,False
+2024-12-14,Saturday,True,12,Winter,,,False,False,False
+2024-12-15,Sunday,True,12,Winter,,,False,False,False
+2024-12-16,Monday,False,12,Winter,,,False,False,False
+2024-12-17,Tuesday,False,12,Winter,,,False,False,False
+2024-12-18,Wednesday,False,12,Winter,,,False,False,False
+2024-12-19,Thursday,False,12,Winter,,,False,False,False
+2024-12-20,Friday,False,12,Winter,,,False,False,False
+2024-12-21,Saturday,True,12,Winter,,,False,False,False
+2024-12-22,Sunday,True,12,Winter,,,False,False,False
+2024-12-23,Monday,False,12,Winter,,,False,False,False
+2024-12-24,Tuesday,False,12,Winter,Christmas & New Year,Christmas & New Year,False,False,False
+2024-12-25,Wednesday,False,12,Winter,,Christmas & New Year,False,False,False
+2024-12-26,Thursday,False,12,Winter,,Christmas & New Year,False,False,False
+2024-12-27,Friday,False,12,Winter,,Christmas & New Year,False,False,False
+2024-12-28,Saturday,True,12,Winter,,Christmas & New Year,False,False,False
+2024-12-29,Sunday,True,12,Winter,,Christmas & New Year,False,False,False
+2024-12-30,Monday,False,12,Winter,,Christmas & New Year,False,False,False
+2024-12-31,Tuesday,False,12,Winter,,Christmas & New Year,False,False,False
+2025-01-01,Wednesday,False,1,Winter,,,False,False,True
+2025-01-02,Thursday,False,1,Winter,,,False,False,True
+2025-01-03,Friday,False,1,Winter,,,False,False,True
+2025-01-04,Saturday,True,1,Winter,,,False,False,True
+2025-01-05,Sunday,True,1,Winter,,,False,False,True
+2025-01-06,Monday,False,1,Winter,,,False,False,True
+2025-01-07,Tuesday,False,1,Winter,,,False,False,True
+2025-01-08,Wednesday,False,1,Winter,,,False,False,False
+2025-01-09,Thursday,False,1,Winter,,,False,False,False
+2025-01-10,Friday,False,1,Winter,,,False,False,False
+2025-01-11,Saturday,True,1,Winter,,,False,False,False
+2025-01-12,Sunday,True,1,Winter,,Makar Sankranti,False,False,False
+2025-01-13,Monday,False,1,Winter,,Makar Sankranti,False,False,False
+2025-01-14,Tuesday,False,1,Winter,Makar Sankranti,Makar Sankranti,False,False,False
+2025-01-15,Wednesday,False,1,Winter,,,False,False,False
+2025-01-16,Thursday,False,1,Winter,,,False,False,False
+2025-01-17,Friday,False,1,Winter,,,False,False,False
+2025-01-18,Saturday,True,1,Winter,,,False,False,False
+2025-01-19,Sunday,True,1,Winter,,,False,False,False
+2025-01-20,Monday,False,1,Winter,,,False,False,False
+2025-01-21,Tuesday,False,1,Winter,,,False,False,False
+2025-01-22,Wednesday,False,1,Winter,,,False,False,False
+2025-01-23,Thursday,False,1,Winter,,,False,False,False
+2025-01-24,Friday,False,1,Winter,,,False,False,False
+2025-01-25,Saturday,True,1,Winter,,,False,False,False
+2025-01-26,Sunday,True,1,Winter,Republic Day,,False,False,False
+2025-01-27,Monday,False,1,Winter,,,False,False,False
+2025-01-28,Tuesday,False,1,Winter,,,False,False,False
+2025-01-29,Wednesday,False,1,Winter,,,False,False,False
+2025-01-30,Thursday,False,1,Winter,,,False,False,False
+2025-01-31,Friday,False,1,Winter,,,False,False,False
+2025-02-01,Saturday,True,2,Winter,,,False,False,True
+2025-02-02,Sunday,True,2,Winter,,,False,False,True
+2025-02-03,Monday,False,2,Winter,,,False,False,True
+2025-02-04,Tuesday,False,2,Winter,,,False,False,True
+2025-02-05,Wednesday,False,2,Winter,,,False,False,True
+2025-02-06,Thursday,False,2,Winter,,,False,False,True
+2025-02-07,Friday,False,2,Winter,,,False,False,True
+2025-02-08,Saturday,True,2,Winter,,,False,False,False
+2025-02-09,Sunday,True,2,Winter,,,False,False,False
+2025-02-10,Monday,False,2,Winter,,,False,False,False
+2025-02-11,Tuesday,False,2,Winter,,,False,False,False
+2025-02-12,Wednesday,False,2,Winter,,,False,False,False
+2025-02-13,Thursday,False,2,Winter,,,False,False,False
+2025-02-14,Friday,False,2,Winter,,,False,False,False
+2025-02-15,Saturday,True,2,Winter,,,False,False,False
+2025-02-16,Sunday,True,2,Winter,,,False,False,False
+2025-02-17,Monday,False,2,Winter,,,False,False,False
+2025-02-18,Tuesday,False,2,Winter,,,False,False,False
+2025-02-19,Wednesday,False,2,Winter,,,False,False,False
+2025-02-20,Thursday,False,2,Winter,,,False,False,False
+2025-02-21,Friday,False,2,Winter,,,False,False,False
+2025-02-22,Saturday,True,2,Winter,,,False,False,False
+2025-02-23,Sunday,True,2,Winter,,,False,False,False
+2025-02-24,Monday,False,2,Winter,,,False,False,False
+2025-02-25,Tuesday,False,2,Winter,,,False,False,False
+2025-02-26,Wednesday,False,2,Winter,,,False,False,False
+2025-02-27,Thursday,False,2,Winter,,,False,False,False
+2025-02-28,Friday,False,2,Winter,,,False,False,False
+2025-03-01,Saturday,True,3,Summer,,,False,False,True
+2025-03-02,Sunday,True,3,Summer,,,False,False,True
+2025-03-03,Monday,False,3,Summer,,,False,False,True
+2025-03-04,Tuesday,False,3,Summer,,,False,False,True
+2025-03-05,Wednesday,False,3,Summer,,,False,False,True
+2025-03-06,Thursday,False,3,Summer,,,False,False,True
+2025-03-07,Friday,False,3,Summer,,,False,False,True
+2025-03-08,Saturday,True,3,Summer,,,False,False,False
+2025-03-09,Sunday,True,3,Summer,,,False,False,False
+2025-03-10,Monday,False,3,Summer,,,False,False,False
+2025-03-11,Tuesday,False,3,Summer,,,False,False,False
+2025-03-12,Wednesday,False,3,Summer,,Holi,False,False,False
+2025-03-13,Thursday,False,3,Summer,,Holi,False,False,False
+2025-03-14,Friday,False,3,Summer,Holi,Holi,False,False,False
+2025-03-15,Saturday,True,3,Summer,,,False,False,False
+2025-03-16,Sunday,True,3,Summer,,,False,False,False
+2025-03-17,Monday,False,3,Summer,,,False,False,False
+2025-03-18,Tuesday,False,3,Summer,,,False,False,False
+2025-03-19,Wednesday,False,3,Summer,,,False,False,False
+2025-03-20,Thursday,False,3,Summer,,,False,False,False
+2025-03-21,Friday,False,3,Summer,,,False,False,False
+2025-03-22,Saturday,True,3,Summer,,,False,False,False
+2025-03-23,Sunday,True,3,Summer,,,False,False,False
+2025-03-24,Monday,False,3,Summer,,,False,False,False
+2025-03-25,Tuesday,False,3,Summer,,,False,False,False
+2025-03-26,Wednesday,False,3,Summer,,,False,False,False
+2025-03-27,Thursday,False,3,Summer,,,False,False,False
+2025-03-28,Friday,False,3,Summer,,Gudi Padwa,False,False,False
+2025-03-29,Saturday,True,3,Summer,,Gudi Padwa,False,False,False
+2025-03-30,Sunday,True,3,Summer,Gudi Padwa,Gudi Padwa,False,False,False
+2025-03-31,Monday,False,3,Summer,Eid al-Fitr,Eid al-Fitr,False,False,False
+2025-04-01,Tuesday,False,4,Summer,,,False,False,True
+2025-04-02,Wednesday,False,4,Summer,,,False,False,True
+2025-04-03,Thursday,False,4,Summer,,,False,False,True
+2025-04-04,Friday,False,4,Summer,,,False,False,True
+2025-04-05,Saturday,True,4,Summer,,,False,False,True
+2025-04-06,Sunday,True,4,Summer,,,False,False,True
+2025-04-07,Monday,False,4,Summer,,,False,False,True
+2025-04-08,Tuesday,False,4,Summer,,,False,False,False
+2025-04-09,Wednesday,False,4,Summer,,,False,False,False
+2025-04-10,Thursday,False,4,Summer,,,False,False,False
+2025-04-11,Friday,False,4,Summer,,,False,False,False
+2025-04-12,Saturday,True,4,Summer,,,False,False,False
+2025-04-13,Sunday,True,4,Summer,,,False,False,False
+2025-04-14,Monday,False,4,Summer,,,False,False,False
+2025-04-15,Tuesday,False,4,Summer,,,False,False,False
+2025-04-16,Wednesday,False,4,Summer,,,False,False,False
+2025-04-17,Thursday,False,4,Summer,,,False,False,False
+2025-04-18,Friday,False,4,Summer,,,False,False,False
+2025-04-19,Saturday,True,4,Summer,,,False,False,False
+2025-04-20,Sunday,True,4,Summer,,,False,False,False
+2025-04-21,Monday,False,4,Summer,,,False,False,False
+2025-04-22,Tuesday,False,4,Summer,,,False,False,False
+2025-04-23,Wednesday,False,4,Summer,,,False,False,False
+2025-04-24,Thursday,False,4,Summer,,,False,False,False
+2025-04-25,Friday,False,4,Summer,,,False,False,False
+2025-04-26,Saturday,True,4,Summer,,,False,False,False
+2025-04-27,Sunday,True,4,Summer,,,False,False,False
+2025-04-28,Monday,False,4,Summer,,,False,False,False
+2025-04-29,Tuesday,False,4,Summer,,,False,False,False
+2025-04-30,Wednesday,False,4,Summer,,,False,False,False
+2025-05-01,Thursday,False,5,Summer,Maharashtra Day,,False,False,True
+2025-05-02,Friday,False,5,Summer,,,False,False,True
+2025-05-03,Saturday,True,5,Summer,,,False,False,True
+2025-05-04,Sunday,True,5,Summer,,,False,False,True
+2025-05-05,Monday,False,5,Summer,,,False,False,True
+2025-05-06,Tuesday,False,5,Summer,,,False,False,True
+2025-05-07,Wednesday,False,5,Summer,,,False,False,True
+2025-05-08,Thursday,False,5,Summer,,,False,False,False
+2025-05-09,Friday,False,5,Summer,,,False,False,False
+2025-05-10,Saturday,True,5,Summer,,,False,False,False
+2025-05-11,Sunday,True,5,Summer,,,False,False,False
+2025-05-12,Monday,False,5,Summer,,,False,False,False
+2025-05-13,Tuesday,False,5,Summer,,,False,False,False
+2025-05-14,Wednesday,False,5,Summer,,,False,False,False
+2025-05-15,Thursday,False,5,Summer,,,False,False,False
+2025-05-16,Friday,False,5,Summer,,,False,False,False
+2025-05-17,Saturday,True,5,Summer,,,False,False,False
+2025-05-18,Sunday,True,5,Summer,,,False,False,False
+2025-05-19,Monday,False,5,Summer,,,False,False,False
+2025-05-20,Tuesday,False,5,Summer,,,False,False,False
+2025-05-21,Wednesday,False,5,Summer,,,False,False,False
+2025-05-22,Thursday,False,5,Summer,,,False,False,False
+2025-05-23,Friday,False,5,Summer,,,False,False,False
+2025-05-24,Saturday,True,5,Summer,,,False,False,False
+2025-05-25,Sunday,True,5,Summer,,,False,False,False
+2025-05-26,Monday,False,5,Summer,,,False,False,False
+2025-05-27,Tuesday,False,5,Summer,,,False,False,False
+2025-05-28,Wednesday,False,5,Summer,,,False,False,False
+2025-05-29,Thursday,False,5,Summer,,,False,False,False
+2025-05-30,Friday,False,5,Summer,,,False,False,False
+2025-05-31,Saturday,True,5,Summer,,,False,False,False
+2025-06-01,Sunday,True,6,Monsoon,,,False,False,True
+2025-06-02,Monday,False,6,Monsoon,,,False,False,True
+2025-06-03,Tuesday,False,6,Monsoon,,,False,False,True
+2025-06-04,Wednesday,False,6,Monsoon,,,False,False,True
+2025-06-05,Thursday,False,6,Monsoon,,Eid al-Adha,False,False,True
+2025-06-06,Friday,False,6,Monsoon,,Eid al-Adha,False,False,True
+2025-06-07,Saturday,True,6,Monsoon,Eid al-Adha,Eid al-Adha,False,False,True
+2025-06-08,Sunday,True,6,Monsoon,,,False,False,False
+2025-06-09,Monday,False,6,Monsoon,,,False,False,False
+2025-06-10,Tuesday,False,6,Monsoon,,,True,False,False
+2025-06-11,Wednesday,False,6,Monsoon,,,True,False,False
+2025-06-12,Thursday,False,6,Monsoon,,,True,False,False
+2025-06-13,Friday,False,6,Monsoon,,,True,False,False
+2025-06-14,Saturday,True,6,Monsoon,,,True,False,False
+2025-06-15,Sunday,True,6,Monsoon,,,True,False,False
+2025-06-16,Monday,False,6,Monsoon,,,True,False,False
+2025-06-17,Tuesday,False,6,Monsoon,,,True,False,False
+2025-06-18,Wednesday,False,6,Monsoon,,,True,False,False
+2025-06-19,Thursday,False,6,Monsoon,,,True,False,False
+2025-06-20,Friday,False,6,Monsoon,,,True,False,False
+2025-06-21,Saturday,True,6,Monsoon,,,True,False,False
+2025-06-22,Sunday,True,6,Monsoon,,,True,False,False
+2025-06-23,Monday,False,6,Monsoon,,,True,False,False
+2025-06-24,Tuesday,False,6,Monsoon,,,True,False,False
+2025-06-25,Wednesday,False,6,Monsoon,,,True,False,False
+2025-06-26,Thursday,False,6,Monsoon,,,True,False,False
+2025-06-27,Friday,False,6,Monsoon,,,True,False,False
+2025-06-28,Saturday,True,6,Monsoon,,,True,False,False
+2025-06-29,Sunday,True,6,Monsoon,,,True,False,False
+2025-06-30,Monday,False,6,Monsoon,,,True,False,False
+2025-07-01,Tuesday,False,7,Monsoon,,,True,False,True
+2025-07-02,Wednesday,False,7,Monsoon,,,True,False,True
+2025-07-03,Thursday,False,7,Monsoon,,,True,False,True
+2025-07-04,Friday,False,7,Monsoon,,,True,False,True
+2025-07-05,Saturday,True,7,Monsoon,,,True,False,True
+2025-07-06,Sunday,True,7,Monsoon,,,True,False,True
+2025-07-07,Monday,False,7,Monsoon,,,True,False,True
+2025-07-08,Tuesday,False,7,Monsoon,,,True,False,False
+2025-07-09,Wednesday,False,7,Monsoon,,,True,False,False
+2025-07-10,Thursday,False,7,Monsoon,,,True,False,False
+2025-07-11,Friday,False,7,Monsoon,,,True,False,False
+2025-07-12,Saturday,True,7,Monsoon,,,True,False,False
+2025-07-13,Sunday,True,7,Monsoon,,,True,False,False
+2025-07-14,Monday,False,7,Monsoon,,,True,False,False
+2025-07-15,Tuesday,False,7,Monsoon,,,True,False,False
+2025-07-16,Wednesday,False,7,Monsoon,,,True,False,False
+2025-07-17,Thursday,False,7,Monsoon,,,True,False,False
+2025-07-18,Friday,False,7,Monsoon,,,True,False,False
+2025-07-19,Saturday,True,7,Monsoon,,,True,False,False
+2025-07-20,Sunday,True,7,Monsoon,,,True,False,False
+2025-07-21,Monday,False,7,Monsoon,,,True,False,False
+2025-07-22,Tuesday,False,7,Monsoon,,,True,False,False
+2025-07-23,Wednesday,False,7,Monsoon,,,True,False,False
+2025-07-24,Thursday,False,7,Monsoon,,,True,False,False
+2025-07-25,Friday,False,7,Monsoon,,,True,True,False
+2025-07-26,Saturday,True,7,Monsoon,,,True,True,False
+2025-07-27,Sunday,True,7,Monsoon,,,True,True,False
+2025-07-28,Monday,False,7,Monsoon,,,True,True,False
+2025-07-29,Tuesday,False,7,Monsoon,,,True,True,False
+2025-07-30,Wednesday,False,7,Monsoon,,,True,True,False
+2025-07-31,Thursday,False,7,Monsoon,,,True,True,False
+2025-08-01,Friday,False,8,Monsoon,,,True,True,True
+2025-08-02,Saturday,True,8,Monsoon,,,True,True,True
+2025-08-03,Sunday,True,8,Monsoon,,,True,True,True
+2025-08-04,Monday,False,8,Monsoon,,,True,True,True
+2025-08-05,Tuesday,False,8,Monsoon,,,True,True,True
+2025-08-06,Wednesday,False,8,Monsoon,,,True,True,True
+2025-08-07,Thursday,False,8,Monsoon,,Raksha Bandhan,True,True,True
+2025-08-08,Friday,False,8,Monsoon,,Raksha Bandhan,True,True,False
+2025-08-09,Saturday,True,8,Monsoon,Raksha Bandhan,Raksha Bandhan,True,True,False
+2025-08-10,Sunday,True,8,Monsoon,,,True,True,False
+2025-08-11,Monday,False,8,Monsoon,,,True,True,False
+2025-08-12,Tuesday,False,8,Monsoon,,,True,True,False
+2025-08-13,Wednesday,False,8,Monsoon,,,True,True,False
+2025-08-14,Thursday,False,8,Monsoon,,,True,True,False
+2025-08-15,Friday,False,8,Monsoon,Independence Day,,True,True,False
+2025-08-16,Saturday,True,8,Monsoon,,,True,True,False
+2025-08-17,Sunday,True,8,Monsoon,,,True,True,False
+2025-08-18,Monday,False,8,Monsoon,,,True,True,False
+2025-08-19,Tuesday,False,8,Monsoon,,,True,True,False
+2025-08-20,Wednesday,False,8,Monsoon,,,True,True,False
+2025-08-21,Thursday,False,8,Monsoon,,,True,True,False
+2025-08-22,Friday,False,8,Monsoon,,,True,True,False
+2025-08-23,Saturday,True,8,Monsoon,,,True,True,False
+2025-08-24,Sunday,True,8,Monsoon,,Ganesh Chaturthi,True,False,False
+2025-08-25,Monday,False,8,Monsoon,,Ganesh Chaturthi,True,False,False
+2025-08-26,Tuesday,False,8,Monsoon,,Ganesh Chaturthi,True,False,False
+2025-08-27,Wednesday,False,8,Monsoon,Ganesh Chaturthi,Ganesh Chaturthi,True,False,False
+2025-08-28,Thursday,False,8,Monsoon,,Ganesh Chaturthi,True,False,False
+2025-08-29,Friday,False,8,Monsoon,,Ganesh Chaturthi,True,False,False
+2025-08-30,Saturday,True,8,Monsoon,,Ganesh Chaturthi,True,False,False
+2025-08-31,Sunday,True,8,Monsoon,,Ganesh Chaturthi,True,False,False
+2025-09-01,Monday,False,9,Monsoon,,Ganesh Chaturthi,True,False,True
+2025-09-02,Tuesday,False,9,Monsoon,,Ganesh Chaturthi,True,False,True
+2025-09-03,Wednesday,False,9,Monsoon,,Ganesh Chaturthi,True,False,True
+2025-09-04,Thursday,False,9,Monsoon,,Ganesh Chaturthi,True,False,True
+2025-09-05,Friday,False,9,Monsoon,,Ganesh Chaturthi,True,False,True
+2025-09-06,Saturday,True,9,Monsoon,,Ganesh Chaturthi,True,False,True
+2025-09-07,Sunday,True,9,Monsoon,,,True,False,True
+2025-09-08,Monday,False,9,Monsoon,,,True,False,False
+2025-09-09,Tuesday,False,9,Monsoon,,,True,False,False
+2025-09-10,Wednesday,False,9,Monsoon,,,True,False,False
+2025-09-11,Thursday,False,9,Monsoon,,,True,False,False
+2025-09-12,Friday,False,9,Monsoon,,,True,False,False
+2025-09-13,Saturday,True,9,Monsoon,,,True,False,False
+2025-09-14,Sunday,True,9,Monsoon,,,True,False,False
+2025-09-15,Monday,False,9,Monsoon,,,True,False,False
+2025-09-16,Tuesday,False,9,Monsoon,,,True,False,False
+2025-09-17,Wednesday,False,9,Monsoon,,,True,False,False
+2025-09-18,Thursday,False,9,Monsoon,,,True,False,False
+2025-09-19,Friday,False,9,Monsoon,,,True,False,False
+2025-09-20,Saturday,True,9,Monsoon,,,True,False,False
+2025-09-21,Sunday,True,9,Monsoon,,,True,False,False
+2025-09-22,Monday,False,9,Monsoon,Navratri,Navratri,True,False,False
+2025-09-23,Tuesday,False,9,Monsoon,,Navratri,True,False,False
+2025-09-24,Wednesday,False,9,Monsoon,,Navratri,True,False,False
+2025-09-25,Thursday,False,9,Monsoon,,Navratri,True,False,False
+2025-09-26,Friday,False,9,Monsoon,,Navratri,True,False,False
+2025-09-27,Saturday,True,9,Monsoon,,Navratri,True,False,False
+2025-09-28,Sunday,True,9,Monsoon,,Navratri,True,False,False
+2025-09-29,Monday,False,9,Monsoon,,Navratri,True,False,False
+2025-09-30,Tuesday,False,9,Monsoon,,Navratri,True,False,False
+2025-10-01,Wednesday,False,10,Post-monsoon,,Dussehra,False,False,True
+2025-10-02,Thursday,False,10,Post-monsoon,Dussehra,Dussehra,False,False,True
+2025-10-03,Friday,False,10,Post-monsoon,,,False,False,True
+2025-10-04,Saturday,True,10,Post-monsoon,,,False,False,True
+2025-10-05,Sunday,True,10,Post-monsoon,,,False,False,True
+2025-10-06,Monday,False,10,Post-monsoon,,Diwali,False,False,True
+2025-10-07,Tuesday,False,10,Post-monsoon,,Diwali,False,False,True
+2025-10-08,Wednesday,False,10,Post-monsoon,,Diwali,False,False,False
+2025-10-09,Thursday,False,10,Post-monsoon,,Diwali,False,False,False
+2025-10-10,Friday,False,10,Post-monsoon,,Diwali,False,False,False
+2025-10-11,Saturday,True,10,Post-monsoon,,Diwali,False,False,False
+2025-10-12,Sunday,True,10,Post-monsoon,,Diwali,False,False,False
+2025-10-13,Monday,False,10,Post-monsoon,,Diwali,False,False,False
+2025-10-14,Tuesday,False,10,Post-monsoon,,Diwali,False,False,False
+2025-10-15,Wednesday,False,10,Post-monsoon,,Diwali,False,False,False
+2025-10-16,Thursday,False,10,Post-monsoon,,Diwali,False,False,False
+2025-10-17,Friday,False,10,Post-monsoon,,Diwali,False,False,False
+2025-10-18,Saturday,True,10,Post-monsoon,,Diwali,False,False,False
+2025-10-19,Sunday,True,10,Post-monsoon,,Diwali,False,False,False
+2025-10-20,Monday,False,10,Post-monsoon,Diwali,Diwali,False,False,False
+2025-10-21,Tuesday,False,10,Post-monsoon,,Diwali,False,False,False
+2025-10-22,Wednesday,False,10,Post-monsoon,,,False,False,False
+2025-10-23,Thursday,False,10,Post-monsoon,,,False,False,False
+2025-10-24,Friday,False,10,Post-monsoon,,,False,False,False
+2025-10-25,Saturday,True,10,Post-monsoon,,,False,False,False
+2025-10-26,Sunday,True,10,Post-monsoon,,,False,False,False
+2025-10-27,Monday,False,10,Post-monsoon,,,False,False,False
+2025-10-28,Tuesday,False,10,Post-monsoon,,,False,False,False
+2025-10-29,Wednesday,False,10,Post-monsoon,,,False,False,False
+2025-10-30,Thursday,False,10,Post-monsoon,,,False,False,False
+2025-10-31,Friday,False,10,Post-monsoon,,,False,False,False
+2025-11-01,Saturday,True,11,Post-monsoon,,,False,False,True
+2025-11-02,Sunday,True,11,Post-monsoon,,,False,False,True
+2025-11-03,Monday,False,11,Post-monsoon,,,False,False,True
+2025-11-04,Tuesday,False,11,Post-monsoon,,,False,False,True
+2025-11-05,Wednesday,False,11,Post-monsoon,,,False,False,True
+2025-11-06,Thursday,False,11,Post-monsoon,,,False,False,True
+2025-11-07,Friday,False,11,Post-monsoon,,,False,False,True
+2025-11-08,Saturday,True,11,Post-monsoon,,,False,False,False
+2025-11-09,Sunday,True,11,Post-monsoon,,,False,False,False
+2025-11-10,Monday,False,11,Post-monsoon,,,False,False,False
+2025-11-11,Tuesday,False,11,Post-monsoon,,,False,False,False
+2025-11-12,Wednesday,False,11,Post-monsoon,,,False,False,False
+2025-11-13,Thursday,False,11,Post-monsoon,,,False,False,False
+2025-11-14,Friday,False,11,Post-monsoon,,,False,False,False
+2025-11-15,Saturday,True,11,Post-monsoon,,,False,False,False
+2025-11-16,Sunday,True,11,Post-monsoon,,,False,False,False
+2025-11-17,Monday,False,11,Post-monsoon,,,False,False,False
+2025-11-18,Tuesday,False,11,Post-monsoon,,,False,False,False
+2025-11-19,Wednesday,False,11,Post-monsoon,,,False,False,False
+2025-11-20,Thursday,False,11,Post-monsoon,,,False,False,False
+2025-11-21,Friday,False,11,Post-monsoon,,,False,False,False
+2025-11-22,Saturday,True,11,Post-monsoon,,,False,False,False
+2025-11-23,Sunday,True,11,Post-monsoon,,,False,False,False
+2025-11-24,Monday,False,11,Post-monsoon,,,False,False,False
+2025-11-25,Tuesday,False,11,Post-monsoon,,,False,False,False
+2025-11-26,Wednesday,False,11,Post-monsoon,,,False,False,False
+2025-11-27,Thursday,False,11,Post-monsoon,,,False,False,False
+2025-11-28,Friday,False,11,Post-monsoon,,,False,False,False
+2025-11-29,Saturday,True,11,Post-monsoon,,,False,False,False
+2025-11-30,Sunday,True,11,Post-monsoon,,,False,False,False
+2025-12-01,Monday,False,12,Winter,,,False,False,True
+2025-12-02,Tuesday,False,12,Winter,,,False,False,True
+2025-12-03,Wednesday,False,12,Winter,,,False,False,True
+2025-12-04,Thursday,False,12,Winter,,,False,False,True
+2025-12-05,Friday,False,12,Winter,,,False,False,True
+2025-12-06,Saturday,True,12,Winter,,,False,False,True
+2025-12-07,Sunday,True,12,Winter,,,False,False,True
+2025-12-08,Monday,False,12,Winter,,,False,False,False
+2025-12-09,Tuesday,False,12,Winter,,,False,False,False
+2025-12-10,Wednesday,False,12,Winter,,,False,False,False
+2025-12-11,Thursday,False,12,Winter,,,False,False,False
+2025-12-12,Friday,False,12,Winter,,,False,False,False
+2025-12-13,Saturday,True,12,Winter,,,False,False,False
+2025-12-14,Sunday,True,12,Winter,,,False,False,False
+2025-12-15,Monday,False,12,Winter,,,False,False,False
+2025-12-16,Tuesday,False,12,Winter,,,False,False,False
+2025-12-17,Wednesday,False,12,Winter,,,False,False,False
+2025-12-18,Thursday,False,12,Winter,,,False,False,False
+2025-12-19,Friday,False,12,Winter,,,False,False,False
+2025-12-20,Saturday,True,12,Winter,,,False,False,False
+2025-12-21,Sunday,True,12,Winter,,,False,False,False
+2025-12-22,Monday,False,12,Winter,,,False,False,False
+2025-12-23,Tuesday,False,12,Winter,,,False,False,False
+2025-12-24,Wednesday,False,12,Winter,Christmas & New Year,Christmas & New Year,False,False,False
+2025-12-25,Thursday,False,12,Winter,,Christmas & New Year,False,False,False
+2025-12-26,Friday,False,12,Winter,,Christmas & New Year,False,False,False
+2025-12-27,Saturday,True,12,Winter,,Christmas & New Year,False,False,False
+2025-12-28,Sunday,True,12,Winter,,Christmas & New Year,False,False,False
+2025-12-29,Monday,False,12,Winter,,Christmas & New Year,False,False,False
+2025-12-30,Tuesday,False,12,Winter,,Christmas & New Year,False,False,False
+2025-12-31,Wednesday,False,12,Winter,,Christmas & New Year,False,False,False
+2026-01-01,Thursday,False,1,Winter,,,False,False,True
+2026-01-02,Friday,False,1,Winter,,,False,False,True
+2026-01-03,Saturday,True,1,Winter,,,False,False,True
+2026-01-04,Sunday,True,1,Winter,,,False,False,True
+2026-01-05,Monday,False,1,Winter,,,False,False,True
+2026-01-06,Tuesday,False,1,Winter,,,False,False,True
+2026-01-07,Wednesday,False,1,Winter,,,False,False,True
+2026-01-08,Thursday,False,1,Winter,,,False,False,False
+2026-01-09,Friday,False,1,Winter,,,False,False,False
+2026-01-10,Saturday,True,1,Winter,,,False,False,False
+2026-01-11,Sunday,True,1,Winter,,,False,False,False
+2026-01-12,Monday,False,1,Winter,,Makar Sankranti,False,False,False
+2026-01-13,Tuesday,False,1,Winter,,Makar Sankranti,False,False,False
+2026-01-14,Wednesday,False,1,Winter,Makar Sankranti,Makar Sankranti,False,False,False
+2026-01-15,Thursday,False,1,Winter,,,False,False,False
+2026-01-16,Friday,False,1,Winter,,,False,False,False
+2026-01-17,Saturday,True,1,Winter,,,False,False,False
+2026-01-18,Sunday,True,1,Winter,,,False,False,False
+2026-01-19,Monday,False,1,Winter,,,False,False,False
+2026-01-20,Tuesday,False,1,Winter,,,False,False,False
+2026-01-21,Wednesday,False,1,Winter,,,False,False,False
+2026-01-22,Thursday,False,1,Winter,,,False,False,False
+2026-01-23,Friday,False,1,Winter,,,False,False,False
+2026-01-24,Saturday,True,1,Winter,,,False,False,False
+2026-01-25,Sunday,True,1,Winter,,,False,False,False
+2026-01-26,Monday,False,1,Winter,Republic Day,,False,False,False
+2026-01-27,Tuesday,False,1,Winter,,,False,False,False
+2026-01-28,Wednesday,False,1,Winter,,,False,False,False
+2026-01-29,Thursday,False,1,Winter,,,False,False,False
+2026-01-30,Friday,False,1,Winter,,,False,False,False
+2026-01-31,Saturday,True,1,Winter,,,False,False,False
+2026-02-01,Sunday,True,2,Winter,,,False,False,True
+2026-02-02,Monday,False,2,Winter,,,False,False,True
+2026-02-03,Tuesday,False,2,Winter,,,False,False,True
+2026-02-04,Wednesday,False,2,Winter,,,False,False,True
+2026-02-05,Thursday,False,2,Winter,,,False,False,True
+2026-02-06,Friday,False,2,Winter,,,False,False,True
+2026-02-07,Saturday,True,2,Winter,,,False,False,True
+2026-02-08,Sunday,True,2,Winter,,,False,False,False
+2026-02-09,Monday,False,2,Winter,,,False,False,False
+2026-02-10,Tuesday,False,2,Winter,,,False,False,False
+2026-02-11,Wednesday,False,2,Winter,,,False,False,False
+2026-02-12,Thursday,False,2,Winter,,,False,False,False
+2026-02-13,Friday,False,2,Winter,,,False,False,False
+2026-02-14,Saturday,True,2,Winter,,,False,False,False
+2026-02-15,Sunday,True,2,Winter,,,False,False,False
+2026-02-16,Monday,False,2,Winter,,,False,False,False
+2026-02-17,Tuesday,False,2,Winter,,,False,False,False
+2026-02-18,Wednesday,False,2,Winter,,,False,False,False
+2026-02-19,Thursday,False,2,Winter,,,False,False,False
+2026-02-20,Friday,False,2,Winter,,,False,False,False
+2026-02-21,Saturday,True,2,Winter,,,False,False,False
+2026-02-22,Sunday,True,2,Winter,,,False,False,False
+2026-02-23,Monday,False,2,Winter,,,False,False,False
+2026-02-24,Tuesday,False,2,Winter,,,False,False,False
+2026-02-25,Wednesday,False,2,Winter,,,False,False,False
+2026-02-26,Thursday,False,2,Winter,,,False,False,False
+2026-02-27,Friday,False,2,Winter,,,False,False,False
+2026-02-28,Saturday,True,2,Winter,,,False,False,False
+2026-03-01,Sunday,True,3,Summer,,,False,False,True
+2026-03-02,Monday,False,3,Summer,,Holi,False,False,True
+2026-03-03,Tuesday,False,3,Summer,,Holi,False,False,True
+2026-03-04,Wednesday,False,3,Summer,Holi,Holi,False,False,True
+2026-03-05,Thursday,False,3,Summer,,,False,False,True
+2026-03-06,Friday,False,3,Summer,,,False,False,True
+2026-03-07,Saturday,True,3,Summer,,,False,False,True
+2026-03-08,Sunday,True,3,Summer,,,False,False,False
+2026-03-09,Monday,False,3,Summer,,,False,False,False
+2026-03-10,Tuesday,False,3,Summer,,,False,False,False
+2026-03-11,Wednesday,False,3,Summer,,,False,False,False
+2026-03-12,Thursday,False,3,Summer,,,False,False,False
+2026-03-13,Friday,False,3,Summer,,,False,False,False
+2026-03-14,Saturday,True,3,Summer,,,False,False,False
+2026-03-15,Sunday,True,3,Summer,,,False,False,False
+2026-03-16,Monday,False,3,Summer,,,False,False,False
+2026-03-17,Tuesday,False,3,Summer,,Gudi Padwa,False,False,False
+2026-03-18,Wednesday,False,3,Summer,,Gudi Padwa,False,False,False
+2026-03-19,Thursday,False,3,Summer,Gudi Padwa,Gudi Padwa,False,False,False
+2026-03-20,Friday,False,3,Summer,Eid al-Fitr,Eid al-Fitr,False,False,False
+2026-03-21,Saturday,True,3,Summer,,,False,False,False
+2026-03-22,Sunday,True,3,Summer,,,False,False,False
+2026-03-23,Monday,False,3,Summer,,,False,False,False
+2026-03-24,Tuesday,False,3,Summer,,,False,False,False
+2026-03-25,Wednesday,False,3,Summer,,,False,False,False
+2026-03-26,Thursday,False,3,Summer,,,False,False,False
+2026-03-27,Friday,False,3,Summer,,,False,False,False
+2026-03-28,Saturday,True,3,Summer,,,False,False,False
+2026-03-29,Sunday,True,3,Summer,,,False,False,False
+2026-03-30,Monday,False,3,Summer,,,False,False,False
+2026-03-31,Tuesday,False,3,Summer,,,False,False,False
+2026-04-01,Wednesday,False,4,Summer,,,False,False,True
+2026-04-02,Thursday,False,4,Summer,,,False,False,True
+2026-04-03,Friday,False,4,Summer,,,False,False,True
+2026-04-04,Saturday,True,4,Summer,,,False,False,True
+2026-04-05,Sunday,True,4,Summer,,,False,False,True
+2026-04-06,Monday,False,4,Summer,,,False,False,True
+2026-04-07,Tuesday,False,4,Summer,,,False,False,True
+2026-04-08,Wednesday,False,4,Summer,,,False,False,False
+2026-04-09,Thursday,False,4,Summer,,,False,False,False
+2026-04-10,Friday,False,4,Summer,,,False,False,False
+2026-04-11,Saturday,True,4,Summer,,,False,False,False
+2026-04-12,Sunday,True,4,Summer,,,False,False,False
+2026-04-13,Monday,False,4,Summer,,,False,False,False
+2026-04-14,Tuesday,False,4,Summer,,,False,False,False
+2026-04-15,Wednesday,False,4,Summer,,,False,False,False
+2026-04-16,Thursday,False,4,Summer,,,False,False,False
+2026-04-17,Friday,False,4,Summer,,,False,False,False
+2026-04-18,Saturday,True,4,Summer,,,False,False,False
+2026-04-19,Sunday,True,4,Summer,,,False,False,False
+2026-04-20,Monday,False,4,Summer,,,False,False,False
+2026-04-21,Tuesday,False,4,Summer,,,False,False,False
+2026-04-22,Wednesday,False,4,Summer,,,False,False,False
+2026-04-23,Thursday,False,4,Summer,,,False,False,False
+2026-04-24,Friday,False,4,Summer,,,False,False,False
+2026-04-25,Saturday,True,4,Summer,,,False,False,False
+2026-04-26,Sunday,True,4,Summer,,,False,False,False
+2026-04-27,Monday,False,4,Summer,,,False,False,False
+2026-04-28,Tuesday,False,4,Summer,,,False,False,False
+2026-04-29,Wednesday,False,4,Summer,,,False,False,False
+2026-04-30,Thursday,False,4,Summer,,,False,False,False
+2026-05-01,Friday,False,5,Summer,Maharashtra Day,,False,False,True
+2026-05-02,Saturday,True,5,Summer,,,False,False,True
+2026-05-03,Sunday,True,5,Summer,,,False,False,True
+2026-05-04,Monday,False,5,Summer,,,False,False,True
+2026-05-05,Tuesday,False,5,Summer,,,False,False,True
+2026-05-06,Wednesday,False,5,Summer,,,False,False,True
+2026-05-07,Thursday,False,5,Summer,,,False,False,True
+2026-05-08,Friday,False,5,Summer,,,False,False,False
+2026-05-09,Saturday,True,5,Summer,,,False,False,False
+2026-05-10,Sunday,True,5,Summer,,,False,False,False
+2026-05-11,Monday,False,5,Summer,,,False,False,False
+2026-05-12,Tuesday,False,5,Summer,,,False,False,False
+2026-05-13,Wednesday,False,5,Summer,,,False,False,False
+2026-05-14,Thursday,False,5,Summer,,,False,False,False
+2026-05-15,Friday,False,5,Summer,,,False,False,False
+2026-05-16,Saturday,True,5,Summer,,,False,False,False
+2026-05-17,Sunday,True,5,Summer,,,False,False,False
+2026-05-18,Monday,False,5,Summer,,,False,False,False
+2026-05-19,Tuesday,False,5,Summer,,,False,False,False
+2026-05-20,Wednesday,False,5,Summer,,,False,False,False
+2026-05-21,Thursday,False,5,Summer,,,False,False,False
+2026-05-22,Friday,False,5,Summer,,,False,False,False
+2026-05-23,Saturday,True,5,Summer,,,False,False,False
+2026-05-24,Sunday,True,5,Summer,,,False,False,False
+2026-05-25,Monday,False,5,Summer,,Eid al-Adha,False,False,False
+2026-05-26,Tuesday,False,5,Summer,,Eid al-Adha,False,False,False
+2026-05-27,Wednesday,False,5,Summer,Eid al-Adha,Eid al-Adha,False,False,False
+2026-05-28,Thursday,False,5,Summer,,,False,False,False
+2026-05-29,Friday,False,5,Summer,,,False,False,False
+2026-05-30,Saturday,True,5,Summer,,,False,False,False
+2026-05-31,Sunday,True,5,Summer,,,False,False,False
+2026-06-01,Monday,False,6,Monsoon,,,False,False,True
+2026-06-02,Tuesday,False,6,Monsoon,,,False,False,True
+2026-06-03,Wednesday,False,6,Monsoon,,,False,False,True
+2026-06-04,Thursday,False,6,Monsoon,,,False,False,True
+2026-06-05,Friday,False,6,Monsoon,,,False,False,True
+2026-06-06,Saturday,True,6,Monsoon,,,False,False,True
+2026-06-07,Sunday,True,6,Monsoon,,,False,False,True
+2026-06-08,Monday,False,6,Monsoon,,,True,False,False
+2026-06-09,Tuesday,False,6,Monsoon,,,True,False,False
+2026-06-10,Wednesday,False,6,Monsoon,,,True,False,False
+2026-06-11,Thursday,False,6,Monsoon,,,True,False,False
+2026-06-12,Friday,False,6,Monsoon,,,True,False,False
+2026-06-13,Saturday,True,6,Monsoon,,,True,False,False
+2026-06-14,Sunday,True,6,Monsoon,,,True,False,False
+2026-06-15,Monday,False,6,Monsoon,,,True,False,False
+2026-06-16,Tuesday,False,6,Monsoon,,,True,False,False
+2026-06-17,Wednesday,False,6,Monsoon,,,True,False,False
+2026-06-18,Thursday,False,6,Monsoon,,,True,False,False
+2026-06-19,Friday,False,6,Monsoon,,,True,False,False
+2026-06-20,Saturday,True,6,Monsoon,,,True,False,False
+2026-06-21,Sunday,True,6,Monsoon,,,True,False,False
+2026-06-22,Monday,False,6,Monsoon,,,True,False,False
+2026-06-23,Tuesday,False,6,Monsoon,,,True,False,False
+2026-06-24,Wednesday,False,6,Monsoon,,,True,False,False
+2026-06-25,Thursday,False,6,Monsoon,,,True,False,False
+2026-06-26,Friday,False,6,Monsoon,,,True,False,False
+2026-06-27,Saturday,True,6,Monsoon,,,True,False,False
+2026-06-28,Sunday,True,6,Monsoon,,,True,False,False
+2026-06-29,Monday,False,6,Monsoon,,,True,False,False
+2026-06-30,Tuesday,False,6,Monsoon,,,True,False,False
+2026-07-01,Wednesday,False,7,Monsoon,,,True,False,True
+2026-07-02,Thursday,False,7,Monsoon,,,True,False,True
+2026-07-03,Friday,False,7,Monsoon,,,True,False,True
+2026-07-04,Saturday,True,7,Monsoon,,,True,False,True
+2026-07-05,Sunday,True,7,Monsoon,,,True,False,True
+2026-07-06,Monday,False,7,Monsoon,,,True,False,True
+2026-07-07,Tuesday,False,7,Monsoon,,,True,False,True
+2026-07-08,Wednesday,False,7,Monsoon,,,True,False,False
+2026-07-09,Thursday,False,7,Monsoon,,,True,False,False
+2026-07-10,Friday,False,7,Monsoon,,,True,False,False
+2026-07-11,Saturday,True,7,Monsoon,,,True,False,False
+2026-07-12,Sunday,True,7,Monsoon,,,True,False,False
+2026-07-13,Monday,False,7,Monsoon,,,True,False,False
+2026-07-14,Tuesday,False,7,Monsoon,,,True,False,False
+2026-07-15,Wednesday,False,7,Monsoon,,,True,False,False
+2026-07-16,Thursday,False,7,Monsoon,,,True,False,False
+2026-07-17,Friday,False,7,Monsoon,,,True,False,False
+2026-07-18,Saturday,True,7,Monsoon,,,True,False,False
+2026-07-19,Sunday,True,7,Monsoon,,,True,False,False
+2026-07-20,Monday,False,7,Monsoon,,,True,False,False
+2026-07-21,Tuesday,False,7,Monsoon,,,True,False,False
+2026-07-22,Wednesday,False,7,Monsoon,,,True,False,False
+2026-07-23,Thursday,False,7,Monsoon,,,True,False,False
+2026-07-24,Friday,False,7,Monsoon,,,True,False,False
+2026-07-25,Saturday,True,7,Monsoon,,,True,False,False
+2026-07-26,Sunday,True,7,Monsoon,,,True,False,False
+2026-07-27,Monday,False,7,Monsoon,,,True,False,False
+2026-07-28,Tuesday,False,7,Monsoon,,,True,False,False
+2026-07-29,Wednesday,False,7,Monsoon,,,True,False,False
+2026-07-30,Thursday,False,7,Monsoon,,,True,False,False
+2026-07-31,Friday,False,7,Monsoon,,,True,False,False
+2026-08-01,Saturday,True,8,Monsoon,,,True,False,True
+2026-08-02,Sunday,True,8,Monsoon,,,True,False,True
+2026-08-03,Monday,False,8,Monsoon,,,True,False,True
+2026-08-04,Tuesday,False,8,Monsoon,,,True,False,True
+2026-08-05,Wednesday,False,8,Monsoon,,,True,False,True
+2026-08-06,Thursday,False,8,Monsoon,,,True,False,True
+2026-08-07,Friday,False,8,Monsoon,,,True,False,True
+2026-08-08,Saturday,True,8,Monsoon,,,True,False,False
+2026-08-09,Sunday,True,8,Monsoon,,,True,False,False
+2026-08-10,Monday,False,8,Monsoon,,,True,False,False
+2026-08-11,Tuesday,False,8,Monsoon,,,True,False,False
+2026-08-12,Wednesday,False,8,Monsoon,,,True,True,False
+2026-08-13,Thursday,False,8,Monsoon,,,True,True,False
+2026-08-14,Friday,False,8,Monsoon,,,True,True,False
+2026-08-15,Saturday,True,8,Monsoon,Independence Day,,True,True,False
+2026-08-16,Sunday,True,8,Monsoon,,,True,True,False
+2026-08-17,Monday,False,8,Monsoon,,,True,True,False
+2026-08-18,Tuesday,False,8,Monsoon,,,True,True,False
+2026-08-19,Wednesday,False,8,Monsoon,,,True,True,False
+2026-08-20,Thursday,False,8,Monsoon,,,True,True,False
+2026-08-21,Friday,False,8,Monsoon,,,True,True,False
+2026-08-22,Saturday,True,8,Monsoon,,,True,True,False
+2026-08-23,Sunday,True,8,Monsoon,,,True,True,False
+2026-08-24,Monday,False,8,Monsoon,,,True,True,False
+2026-08-25,Tuesday,False,8,Monsoon,,,True,True,False
+2026-08-26,Wednesday,False,8,Monsoon,,Raksha Bandhan,True,True,False
+2026-08-27,Thursday,False,8,Monsoon,,Raksha Bandhan,True,True,False
+2026-08-28,Friday,False,8,Monsoon,Raksha Bandhan,Raksha Bandhan,True,True,False
+2026-08-29,Saturday,True,8,Monsoon,,,True,True,False
+2026-08-30,Sunday,True,8,Monsoon,,,True,True,False
+2026-08-31,Monday,False,8,Monsoon,,,True,True,False
+2026-09-01,Tuesday,False,9,Monsoon,,,True,True,True
+2026-09-02,Wednesday,False,9,Monsoon,,,True,True,True
+2026-09-03,Thursday,False,9,Monsoon,,,True,True,True
+2026-09-04,Friday,False,9,Monsoon,,,True,True,True
+2026-09-05,Saturday,True,9,Monsoon,,,True,True,True
+2026-09-06,Sunday,True,9,Monsoon,,,True,True,True
+2026-09-07,Monday,False,9,Monsoon,,,True,True,True
+2026-09-08,Tuesday,False,9,Monsoon,,,True,True,False
+2026-09-09,Wednesday,False,9,Monsoon,,,True,True,False
+2026-09-10,Thursday,False,9,Monsoon,,,True,True,False
+2026-09-11,Friday,False,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-12,Saturday,True,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-13,Sunday,True,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-14,Monday,False,9,Monsoon,Ganesh Chaturthi,Ganesh Chaturthi,True,False,False
+2026-09-15,Tuesday,False,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-16,Wednesday,False,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-17,Thursday,False,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-18,Friday,False,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-19,Saturday,True,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-20,Sunday,True,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-21,Monday,False,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-22,Tuesday,False,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-23,Wednesday,False,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-24,Thursday,False,9,Monsoon,,Ganesh Chaturthi,True,False,False
+2026-09-25,Friday,False,9,Monsoon,,,True,False,False
+2026-09-26,Saturday,True,9,Monsoon,,,True,False,False
+2026-09-27,Sunday,True,9,Monsoon,,,True,False,False
+2026-09-28,Monday,False,9,Monsoon,,,True,False,False
+2026-09-29,Tuesday,False,9,Monsoon,,,True,False,False
+2026-09-30,Wednesday,False,9,Monsoon,,,True,False,False
+2026-10-01,Thursday,False,10,Post-monsoon,,,False,False,True
+2026-10-02,Friday,False,10,Post-monsoon,,,False,False,True
+2026-10-03,Saturday,True,10,Post-monsoon,,,False,False,True
+2026-10-04,Sunday,True,10,Post-monsoon,,,False,False,True
+2026-10-05,Monday,False,10,Post-monsoon,,,False,False,True
+2026-10-06,Tuesday,False,10,Post-monsoon,,,False,False,True
+2026-10-07,Wednesday,False,10,Post-monsoon,,,False,False,True
+2026-10-08,Thursday,False,10,Post-monsoon,,,False,False,False
+2026-10-09,Friday,False,10,Post-monsoon,,,False,False,False
+2026-10-10,Saturday,True,10,Post-monsoon,,,False,False,False
+2026-10-11,Sunday,True,10,Post-monsoon,Navratri,Navratri,False,False,False
+2026-10-12,Monday,False,10,Post-monsoon,,Navratri,False,False,False
+2026-10-13,Tuesday,False,10,Post-monsoon,,Navratri,False,False,False
+2026-10-14,Wednesday,False,10,Post-monsoon,,Navratri,False,False,False
+2026-10-15,Thursday,False,10,Post-monsoon,,Navratri,False,False,False
+2026-10-16,Friday,False,10,Post-monsoon,,Navratri,False,False,False
+2026-10-17,Saturday,True,10,Post-monsoon,,Navratri,False,False,False
+2026-10-18,Sunday,True,10,Post-monsoon,,Navratri,False,False,False
+2026-10-19,Monday,False,10,Post-monsoon,,Navratri,False,False,False
+2026-10-20,Tuesday,False,10,Post-monsoon,Dussehra,Dussehra,False,False,False
+2026-10-21,Wednesday,False,10,Post-monsoon,,,False,False,False
+2026-10-22,Thursday,False,10,Post-monsoon,,,False,False,False
+2026-10-23,Friday,False,10,Post-monsoon,,,False,False,False
+2026-10-24,Saturday,True,10,Post-monsoon,,,False,False,False
+2026-10-25,Sunday,True,10,Post-monsoon,,Diwali,False,False,False
+2026-10-26,Monday,False,10,Post-monsoon,,Diwali,False,False,False
+2026-10-27,Tuesday,False,10,Post-monsoon,,Diwali,False,False,False
+2026-10-28,Wednesday,False,10,Post-monsoon,,Diwali,False,False,False
+2026-10-29,Thursday,False,10,Post-monsoon,,Diwali,False,False,False
+2026-10-30,Friday,False,10,Post-monsoon,,Diwali,False,False,False
+2026-10-31,Saturday,True,10,Post-monsoon,,Diwali,False,False,False
+2026-11-01,Sunday,True,11,Post-monsoon,,Diwali,False,False,True
+2026-11-02,Monday,False,11,Post-monsoon,,Diwali,False,False,True
+2026-11-03,Tuesday,False,11,Post-monsoon,,Diwali,False,False,True
+2026-11-04,Wednesday,False,11,Post-monsoon,,Diwali,False,False,True
+2026-11-05,Thursday,False,11,Post-monsoon,,Diwali,False,False,True
+2026-11-06,Friday,False,11,Post-monsoon,,Diwali,False,False,True
+2026-11-07,Saturday,True,11,Post-monsoon,,Diwali,False,False,True
+2026-11-08,Sunday,True,11,Post-monsoon,Diwali,Diwali,False,False,False
+2026-11-09,Monday,False,11,Post-monsoon,,Diwali,False,False,False
+2026-11-10,Tuesday,False,11,Post-monsoon,,,False,False,False
+2026-11-11,Wednesday,False,11,Post-monsoon,,,False,False,False
+2026-11-12,Thursday,False,11,Post-monsoon,,,False,False,False
+2026-11-13,Friday,False,11,Post-monsoon,,,False,False,False
+2026-11-14,Saturday,True,11,Post-monsoon,,,False,False,False
+2026-11-15,Sunday,True,11,Post-monsoon,,,False,False,False
+2026-11-16,Monday,False,11,Post-monsoon,,,False,False,False
+2026-11-17,Tuesday,False,11,Post-monsoon,,,False,False,False
+2026-11-18,Wednesday,False,11,Post-monsoon,,,False,False,False
+2026-11-19,Thursday,False,11,Post-monsoon,,,False,False,False
+2026-11-20,Friday,False,11,Post-monsoon,,,False,False,False
+2026-11-21,Saturday,True,11,Post-monsoon,,,False,False,False
+2026-11-22,Sunday,True,11,Post-monsoon,,,False,False,False
+2026-11-23,Monday,False,11,Post-monsoon,,,False,False,False
+2026-11-24,Tuesday,False,11,Post-monsoon,,,False,False,False
+2026-11-25,Wednesday,False,11,Post-monsoon,,,False,False,False
+2026-11-26,Thursday,False,11,Post-monsoon,,,False,False,False
+2026-11-27,Friday,False,11,Post-monsoon,,,False,False,False
+2026-11-28,Saturday,True,11,Post-monsoon,,,False,False,False
+2026-11-29,Sunday,True,11,Post-monsoon,,,False,False,False
+2026-11-30,Monday,False,11,Post-monsoon,,,False,False,False
+2026-12-01,Tuesday,False,12,Winter,,,False,False,True
+2026-12-02,Wednesday,False,12,Winter,,,False,False,True
+2026-12-03,Thursday,False,12,Winter,,,False,False,True
+2026-12-04,Friday,False,12,Winter,,,False,False,True
+2026-12-05,Saturday,True,12,Winter,,,False,False,True
+2026-12-06,Sunday,True,12,Winter,,,False,False,True
+2026-12-07,Monday,False,12,Winter,,,False,False,True
+2026-12-08,Tuesday,False,12,Winter,,,False,False,False
+2026-12-09,Wednesday,False,12,Winter,,,False,False,False
+2026-12-10,Thursday,False,12,Winter,,,False,False,False
+2026-12-11,Friday,False,12,Winter,,,False,False,False
+2026-12-12,Saturday,True,12,Winter,,,False,False,False
+2026-12-13,Sunday,True,12,Winter,,,False,False,False
+2026-12-14,Monday,False,12,Winter,,,False,False,False
+2026-12-15,Tuesday,False,12,Winter,,,False,False,False
+2026-12-16,Wednesday,False,12,Winter,,,False,False,False
+2026-12-17,Thursday,False,12,Winter,,,False,False,False
+2026-12-18,Friday,False,12,Winter,,,False,False,False
+2026-12-19,Saturday,True,12,Winter,,,False,False,False
+2026-12-20,Sunday,True,12,Winter,,,False,False,False
+2026-12-21,Monday,False,12,Winter,,,False,False,False
+2026-12-22,Tuesday,False,12,Winter,,,False,False,False
+2026-12-23,Wednesday,False,12,Winter,,,False,False,False
+2026-12-24,Thursday,False,12,Winter,Christmas & New Year,Christmas & New Year,False,False,False
+2026-12-25,Friday,False,12,Winter,,Christmas & New Year,False,False,False
+2026-12-26,Saturday,True,12,Winter,,Christmas & New Year,False,False,False
+2026-12-27,Sunday,True,12,Winter,,Christmas & New Year,False,False,False
+2026-12-28,Monday,False,12,Winter,,Christmas & New Year,False,False,False
+2026-12-29,Tuesday,False,12,Winter,,Christmas & New Year,False,False,False
+2026-12-30,Wednesday,False,12,Winter,,Christmas & New Year,False,False,False
+2026-12-31,Thursday,False,12,Winter,,Christmas & New Year,False,False,False

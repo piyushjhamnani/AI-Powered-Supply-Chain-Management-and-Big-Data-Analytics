@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,city,state,latitude,longitude,capacity_units
+WH-MUM,Bhiwandi Distribution Centre,Mumbai (Bhiwandi),Maharashtra,19.2967,73.0631,60000
+WH-PUN,Pune Chakan Warehouse,Pune,Maharashtra,18.7606,73.8636,40000
+WH-NSK,Nashik Satpur Warehouse,Nashik,Maharashtra,19.9975,73.7898,25000

@@ -1,0 +1,25 @@
+SAHYADRI SUPPLY - INVENTORY AND REORDER POLICY (sample knowledge-base document, based on the project's agent logic; edit to match your company)
+
+1. Purpose
+This policy explains how the Supply Chain Agent decides when and how much to reorder at each warehouse (Bhiwandi WH-MUM, Pune Chakan WH-PUN and Nashik Satpur WH-NSK). The agents use these rules every morning.
+
+2. Reorder method
+The system uses periodic review with an order-up-to level. The order quantity covers forecast demand over the vendor lead time plus the review period, plus safety stock, minus the stock on hand and confirmed deliveries that will arrive in that window. Quantities are rounded up to the product's order multiple.
+
+3. Review period
+Fresh items (milk, bread, eggs) are reviewed every 1 day. Staples and impulse items (biscuits, ice cream, cola) are reviewed every 7 days.
+
+4. Safety stock
+Safety stock equals the service-level factor (z = 1.65, which is a 95% service level) multiplied by the demand volatility (sigma) and the square root of lead time plus review period. It grows automatically when demand becomes more volatile, for example before festivals.
+
+5. Perishables
+Perishable orders are capped so that the warehouse never orders more than it can sell before the product expires. Toned Milk has a 3 day shelf life, Brown Bread 5 days and Eggs 21 days.
+
+6. Overstock
+A non-perishable item with more than 30 days of cover is flagged OVERSTOCK because capital is locked up. A perishable item is overstocked when its days of cover exceed its shelf life. Overstocked items should not be reordered; surplus can be moved to a warehouse that is running short.
+
+7. Overdue deliveries
+A delivery that is 1 day overdue is counted at 50% when planning. Deliveries more than 1 day overdue are ignored in planning and reported separately so that a replacement order can be placed.
+
+8. Purchase order approval
+When Autopilot is on, routine purchase orders below Rs 50,000 and all inter-warehouse transfers are approved automatically. Larger orders wait for a manager's approval.

@@ -1,0 +1,15 @@
+product_id,product_name,category,unit,unit_cost,selling_price,shelf_life_days,perishable,order_multiple,holding_cost_pct_per_year
+P001,Toned Milk 1L,Dairy,pouch,55.7,62.0,3,True,12,30
+P002,Brown Bread 400g,Bakery,packet,39.83,48.0,5,True,10,30
+P003,Eggs (Tray of 30),Dairy,tray,177.61,210.0,21,True,5,30
+P004,Basmati Rice 5kg,Staples,bag,559.73,673.0,365,False,4,22
+P005,Toor Dal 1kg,Staples,packet,152.85,185.0,270,False,10,22
+P006,Wheat Atta 10kg,Staples,bag,414.41,495.0,120,False,2,22
+P007,Sugar 1kg,Staples,packet,44.13,52.0,365,False,25,22
+P008,Sunflower Oil 1L,Edible Oil,pouch,150.61,183.0,270,False,12,22
+P009,Tea Powder 500g,Beverages,packet,245.42,296.0,365,False,12,22
+P010,Glucose Biscuits 800g,Snacks,packet,47.36,59.0,180,False,24,22
+P011,Pure Cow Ghee 1L,Dairy,jar,597.4,700.0,270,False,6,22
+P012,Vanilla Ice Cream 1L,Frozen,tub,170.07,226.0,180,False,6,22
+P013,Cola 2L,Beverages,bottle,90.42,108.0,180,False,6,22
+P014,Detergent Powder 1kg,Home Care,packet,101.18,129.0,730,False,12,22

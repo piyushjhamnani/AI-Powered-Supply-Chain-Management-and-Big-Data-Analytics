@@ -1,0 +1,20 @@
+SUPPLY CHAIN RISK PLAYBOOK (sample knowledge-base document, based on the project's agent logic; edit to match your company)
+
+1. Stockout risk levels
+CRITICAL: the item is out of stock or will run out within 1 day.
+HIGH: the item will run out before the fastest realistic vendor delivery can arrive.
+MEDIUM: the item will run out within 3 days after the vendor lead time, so the reorder window is now.
+OVERSTOCK: more stock than needed (see inventory policy).
+LOW: healthy cover.
+
+2. Recommended response
+CRITICAL and HIGH items: order from the vendor with the lowest total expected cost and check whether a 1-day warehouse transfer is possible. MEDIUM items: the reorder window is now. OVERSTOCK items: do not reorder; surplus can be transferred to a warehouse that is running short.
+
+3. Vendor delivery risk
+Each vendor gets a reliability score from 0 to 100 built from historical on-time delivery, recent on-time delivery (weighted more heavily) and fill rate, and a trend of Declining, Stable or Improving. The vendor agent compares expected total cost, which is purchase cost plus expected lost sales plus late-delivery risk, instead of choosing only the cheapest price.
+
+4. Seasonal and festival demand
+Demand rises around festivals such as Diwali. The forecast model uses festival windows, salary weeks, Shravan and promotions as features, and the festival watch reports which products jumped during the same festival last year so managers can order early.
+
+5. Demand anomalies
+A day with sales above 1.8 times the normal level is a spike; below 0.5 times is a drop. Spikes may signal a promotion, festival or data error and should be reviewed before they influence forecasts.
